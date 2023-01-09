@@ -1,6 +1,11 @@
 
 # Fellow.io
 
+version one - softr
+second is on bubble 
+thrid will be on react
+
+
 ### Abstract :
 
 We are making a Platform for students named fellowship.io, This platform is a one-stop solution for the all the college students to find different open opportunities around various mentorship, fellowships , internships and boot camps etc, on a single platform by filtering according to their tech, interest and program type specification, student often missed out opportunities during their college life due to lack of knowledge and awareness about the different opening, the motive behind building this platform is to make them aware about these opportunities on time, as we are making a mailing list too so that when a particular program start accepting applications student will get notification and apply accordingly on time, we are also thinking about adding some exclusive features on this platform like mentors profile so that student will get right mentorship according to the programs, we will also add experiences section where student can also read other’s past experiences with the program. We will make it interactive and give students the option to add openings, once students add an opening we will review that and make sure that opportunity is worth applying to or not, and if it is we will add it to the platform, using this platform students will get an idea about the application process of the particular program and also about the timeline and requirements of the program. We will also be thinking about running podcasts around it and in that podcast, we will talk to past mentees and students associated with that particular program.
