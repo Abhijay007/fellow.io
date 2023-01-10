@@ -1,10 +1,13 @@
 
 # Fellow.io
 
-version one - softr
-second is on bubble 
-thrid will be on react
+ - version one - softr
 
+ - second is on bubble 
+
+ - thrid will be on react
+
+live link : https://mickey715.preview.softr.app/?t=1673374980635
 
 ### Abstract :
 
